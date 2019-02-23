@@ -1,5 +1,5 @@
 <?php
-    $dir    = '[YOUR-DIR-NAME]';
+    $dir    = '[YOUR-DIR-NAME]'; //use asterik symbol * - if wanna listed in working directory
     $files = scandir($dir);
     
     $no = 1;
